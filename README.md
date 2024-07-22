@@ -26,9 +26,9 @@ Now let us have a look at the login screen. While we are in "inspect" mode in ou
 ![No_Token](https://github.com/user-attachments/assets/dfaa24f6-250a-41f6-9fcc-726e8f9edebd)
 
 
-After we have logged in, you will see that there is a token!
+After we have logged in, you will see that there is a token created!
 
-![Token_Assigned](https://github.com/user-attachments/assets/977a7895-a3d2-4f83-8505-8ea8bf14f395)
+![image](https://github.com/user-attachments/assets/f77d6308-2167-4714-ad1d-24f126f22a89)
 
 
 Now the DB connection and the token key (that is used to hash our data) is displayed in the index.php
