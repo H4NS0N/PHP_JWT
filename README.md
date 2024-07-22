@@ -18,7 +18,7 @@ My DB name is called phpJwt and contains one table with following columns:
 - user_password
 - user_name
 
-![image](https://github.com/user-attachments/assets/7917f746-5527-45d1-8517-78df9f6958b3)
+![image](https://github.com/user-attachments/assets/587773ba-612d-4f69-bde8-e5937ffafd3b)
 
 
 Now let us have a look at the login screen. While we are in "inspect" mode in out browser, go to the storage tab and expand the Cookie dropdown. This is where our token will be stored, in a cookie with all our information. The cookie method ensures that it is a piece of data stored in the browser for x amount of time you allowed the cookie to exist. That way we can access whatever data we desire to store here, and thus make it easy to navigate an entire site with restrictions depending on role setup.
