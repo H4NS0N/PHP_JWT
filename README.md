@@ -8,6 +8,7 @@ This will ensure high security and checks upon login and thus makes it harder to
 <h1>INSTALL JWT:</h1>
 Wether you use MacOS, Windows or Linux, you will have to install JWT through composer for PHP:
 
+
 ![Composer_JWT](https://github.com/user-attachments/assets/e1b65971-4db9-417c-971b-e666b26cd23d)
 
 
