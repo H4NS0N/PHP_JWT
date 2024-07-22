@@ -13,10 +13,10 @@ Wether you use MacOS, Windows or Linux, you will have to install JWT through com
 The next thing is to have a simple database, just to prove our concept of generating a token, which contains the hashed JWT data from our user data.
 My DB name is called phpJwt and contains one table with following columns:
 
-user_id  NOT NULL  auto increment
-user_email
-user_password
-user_name
+- user_id  NOT NULL  auto increment
+- user_email
+- user_password
+- user_name
 
 ![JWT_DB](https://github.com/user-attachments/assets/f84fb4e3-352f-4981-b8b2-585d02dbf4f9)
 
