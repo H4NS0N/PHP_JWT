@@ -4,7 +4,8 @@ JWT ensures that parts of the application will only be accesible through various
 
 This will ensure high security and checks upon login and thus makes it harder to fake a role or do malicious actions from outsiders.
 
-INSTALL JWT:
+
+<h1>INSTALL JWT:</h1>
 Wether you use MacOS, Windows or Linux, you will have to install JWT through composer for PHP:
 
 ![Composer_JWT](https://github.com/user-attachments/assets/e1b65971-4db9-417c-971b-e666b26cd23d)
